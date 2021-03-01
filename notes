@@ -1,0 +1,52 @@
+## From William Lane
+
+Notes (not associated w/ row)	
+	
+	
+Here is a glossary of my uses of the LGSPEC tags:	
+----------	
+LGSPEC01 - Adverbial prefixes.	
+EG "yiwernhburrbun" - "you understood it properly"	
+	
+LGSPEC02 - Quantifying prefixes	
+EG "ngunedjaldi" -  "Only you (two) stood/remained"	
+	
+LGSPEC03 - Body part incorporated nominals	
+EG "kankangemarnbom" - "you heal our hearts"	
+	
+LGSPEC04 -General incorporated nominals	
+EG "birriwokmunkewerrinj" -  "they sent word to each other"	
+	
+LGSPEC05 - Immediacy prefix	
+EG "kahdolkkan" - "he immediately stood up"	
+	
+LGSPEC06 - Persistant action	
+EG "nganedjarrkdukkayindi" - "we (two, excl) together are continually bound )	
+	
+LGSPEC07 - Adjective prefix	
+EG "kankangemurrngrayekwong" - "you make our hearts strong" 	
+	
+LGSPEC08 - Aspect and sequence prefixes	
+EG "ngurriyingkihbolkmarnbu" - "you (all) make this place straightaway"	
+	
+------------	
+Notes on my usage of other tags	
+------------	
+	
+REFL/RECP - This is a tag composed of the UniMorph tags for reflexivity (REFL) and reciprocity (RECP). In Kunwinjku, either concept is expressed with the same morphology. Am I allowed to smash UniMorph tags together like this? Probably not, eh? In which case, how do I express that Kunwinjku morphology doesn't distinguish between the two?	
+	
+BEN - UniMorph "BEN" represents benefactive noun case. Here, I have hijacked it to mean the benefactive applicative; a type of valence-altering morphology. Benefactive as an applicative does occur in other Austronesian languages, and apparently in Bantu languages as well. This wikipedia article cites some useful references: https://en.wikipedia.org/wiki/Applicative_voice	
+	
+COM - Similar to "BEN", I have hijacked this comitative case-marking tag to annotate comitative valence-altering morphology.The same wiki link posted above mentions the comitative as another common applicative.	
+	
+	
+	
+ARGAC  - In almost every annotated verb form, I have used ARGAC to mark the possible 2nd argument of the verb. For example, "bakkeng" - "he broke it":	
+	bakke
+Variations of the ARGAC tag correspond with items in the set of possible pronominals in the languages:	
+ARGAC3DU - 3rd person dual object of the verb	
+ARGAC3SGHUM - 3rd person singular human object of the verb	
+ARGAC1PL - 1st person plural object of the verb	
+ARGAC2 - 2nd person (underspecified for number) object of the verb	
+	
+REDUP - I invented this tag to indicate reduplicative morphology; it does not exist in UniMorph?	
