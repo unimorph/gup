@@ -4,7 +4,7 @@ Contains paradigms for Kunwinjku
 
 ## Data
 
-Source: Lane, William  and Bird, Steven. 2019. Towards A Robust Morphological Analyzer for Kunwinjku"
+Source: Lane, William  and Bird, Steven. 2019. Towards A Robust Morphological Analyzer for Kunwinjku.
 
 Also: [https://openresearch-repository.anu.edu.au/bitstream/1885/132709/2/b12406806_Carroll_Peter_John.pdf](https://openresearch-repository.anu.edu.au/bitstream/1885/132709/2/b12406806_Carroll_Peter_John.pdf)
 
